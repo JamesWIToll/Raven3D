@@ -1,0 +1,12 @@
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/bin/Debug/net9.0/Raven3DLib.deps.json
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/bin/Debug/net9.0/Raven3DLib.dll
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/bin/Debug/net9.0/Raven3DLib.pdb
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.csproj.AssemblyReference.cache
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.AssemblyInfoInputs.cache
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.AssemblyInfo.cs
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.csproj.CoreCompileInputs.cache
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.dll
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/refint/Raven3DLib.dll
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/Raven3DLib.pdb
+/home/wesley/RiderProjects/Raven3D/Raven3DLib/obj/Debug/net9.0/ref/Raven3DLib.dll
